@@ -1,0 +1,28 @@
+name: FourSeason
+favicon: null
+layout_spectrum: 0.8543465547263622
+typography_spectrum: 0.9602640080265701
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5579474680125713
+  lightness: 0.8795049889013171
+  saturation: 0.5627014774363488
+  rhythmicContrast: 0.6934775535482913
+purpose: []
